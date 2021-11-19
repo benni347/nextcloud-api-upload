@@ -11,3 +11,9 @@ pw="<your password>"
 folder="<folder which is to be uploaded>"
 remote_php="<url of nextcloud remote.php>"
 ```
+
+To upload files, run:
+
+```sh
+./put-nextcloud.sh
+```
